@@ -1,2 +1,20 @@
-# raj---movie---data
-JSON database 
+[
+  {
+    "title": "Jawan",
+    "year": 2023,
+    "genre": "Action",
+    "url": "https://example.com/jawan.mp4"
+  },
+  {
+    "title": "Pathaan",
+    "year": 2023,
+    "genre": "Action/Thriller",
+    "url": "https://example.com/pathaan.mp4"
+  },
+  {
+    "title": "Leo",
+    "year": 2023,
+    "genre": "Thriller",
+    "url": "https://example.com/leo.mp4"
+  }
+]
